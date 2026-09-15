@@ -1,0 +1,23 @@
+{
+  "name": "playwright-curso-alex",
+  "version": "1.0.0",
+  "description": "Curso de playwright",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexguia90/playwright-curso-Alex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Alexguia90/playwright-curso-Alex/issues"
+  },
+  "homepage": "https://github.com/Alexguia90/playwright-curso-Alex#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.5.1"
+  }
+}
